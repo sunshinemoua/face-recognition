@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "face-recognition",
+		"path": "."
+	},
+	{
+		"name": "models",
+		"path": "../../../Downloads/models"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "face-recognition"
+  }
+}
